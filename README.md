@@ -2,7 +2,7 @@
 
 Direct Link:
 ======
-https://github.com/Pops08/SocialNetworkAPI
+https://stormy-brushlands-64387.herokuapp.com/
 
 Author:
 ======
